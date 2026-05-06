@@ -1,4 +1,5 @@
-<strong>FATEC Zona Leste</strong> - Desenvolvimento de Software Multiplataforma, 1/6; <br>
+<strong>UNIPE</strong> - Ciência da Computação, 3/6; <br>
+<strong>FATEC Zona Leste</strong> - Desenvolvimento de Software Multiplataforma, 3/6; <br>
 <strong>FATEC SEBRAE</strong> - Gestão de negócios e Inovação, 6/6;<br>
 <strong>ETEC MLK</strong> - Mecatrônica, 4/4;<br>
 <strong>SENAI Morvan Figueiredo</strong> - Mecânica de Usinagem, 4/4;
