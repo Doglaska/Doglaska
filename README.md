@@ -1,6 +1,6 @@
 <!-- CABEÇALHO ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=180&section=header&text=Olá,%20sou%20o%20Douglas!%20👋&fontSize=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,50:C850C0,100:FFCC70&height=180&section=header&text=Olá,%20sou%20o%20Doglas!%20👋&fontSize=38&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
